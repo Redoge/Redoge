@@ -5,7 +5,7 @@
 
 ### GitHub Stats 📊
 
-![Redoge's GitHub stats](https://github-readme-stats-redoges-projects.vercel.app/api?username=redoge&show_icons=true&theme=radical)
+![Redoge's GitHub stats](https://github-readme-stats-redoges-projects.vercel.app/api?username=redoge&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile&show=prs_merged)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### GitHub Trophies 🏆
 
-![GitHub Trophies](https://github-profile-trophy-murex.vercel.app/?username=redoge&theme=dracula)
+![GitHub Trophies](https://github-profile-trophy-redoges-projects.vercel.app/?username=redoge&theme=dracula)
 
 ---
 
@@ -35,7 +35,7 @@
 
 ### GitHub Activity Graph 📈
 
-![GitHub Activity Graph](https://github-readme-activity-graph-taupe.vercel.app/graph?username=redoge&hide_border=false&theme=rogue)
+![GitHub Activity Graph](https://github-readme-activity-graph-git-main-redoges-projects.vercel.app/graph?username=redoge&hide_border=false&theme=rogue)
 
 ---
 

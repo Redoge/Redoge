@@ -11,7 +11,7 @@
 
 ### Most Used Languages and Tools 🛠️
 
-[![Top Langs](https://github-readme-stats-redoges-projects.vercel.app/api/top-langs/?username=redoge&layout=compact&theme=radical)](https://github.com/redoge/github-readme-stats)
+![Top Langs](https://github-readme-stats-redoges-projects.vercel.app/api/top-langs/?username=redoge&layout=compact&theme=radical)
 
 ---
 

@@ -15,29 +15,12 @@
 
 ---
 
-### GitHub Streak (Public) 🔥
-
-![GitHub Streak](http://streak-stats.demolab.com/?user=redoge&theme=radical)
-
----
-
-### GitHub Trophies 🏆
-
-![GitHub Trophies](https://github-profile-trophy-redoges-projects.vercel.app/?username=redoge&theme=dracula)
-
----
-
 ### Wakatime Week Stats ⏳
 
 ![Redoge's Wakatime Week Stats](https://github-readme-stats-redoges-projects.vercel.app/api/wakatime?username=redoge&layout=compact&theme=radical&range=last_7_days)
 
 ---
 
-### GitHub Activity Graph 📈
-
-![GitHub Activity Graph](https://github-readme-activity-graph-git-main-redoges-projects.vercel.app/graph?username=redoge&hide_border=false&theme=rogue)
-
----
 
 ### Connect with Me 🤝
 

@@ -5,7 +5,7 @@
 
 ### GitHub Stats 📊
 
-![Redoge's GitHub stats](https://github-readme-stats-redoges-projects.vercel.app/api?username=redoge&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&show=prs_merged)
+![Redoge's GitHub stats](https://github-readme-stats-redoges-projects.vercel.app/api?username=redoge&show_icons=true&theme=radical&include_all_commits=true&rank_icon=default&show=prs_merged)
 
 ---
 

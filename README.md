@@ -24,5 +24,6 @@
 
 ### Connect with Me 🤝
 
-[![Linkedin](https://img.shields.io/badge/-redoge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/redoge/)](https://www.linkedin.com/in/redoge/)
+[![Linkedin](https://img.shields.io/badge/-redoge-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/redoge/&color=black)](https://www.linkedin.com/in/redoge/)
 [![GitHub](https://img.shields.io/badge/-redoge-black?style=flat-square&logo=github&link=https://github.com/redoge)](https://github.com/redoge)
+[![Instagram](https://img.shields.io/badge/-redoge-black?style=flat-square&logo=instagram&link=https://instagram.com/_redoge_)](https://instagram.com/_redoge_)
